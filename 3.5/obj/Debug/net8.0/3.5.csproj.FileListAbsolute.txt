@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.5\bin\Debug\net8.0\3.5.exe
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.5\bin\Debug\net8.0\3.5.deps.json
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.5\bin\Debug\net8.0\3.5.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.5\bin\Debug\net8.0\3.5.dll
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.5\bin\Debug\net8.0\3.5.pdb
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.5\obj\Debug\net8.0\3.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.5\obj\Debug\net8.0\3.5.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.5\obj\Debug\net8.0\3.5.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.5\obj\Debug\net8.0\3.5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.5\obj\Debug\net8.0\3.5.dll
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.5\obj\Debug\net8.0\refint\3.5.dll
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.5\obj\Debug\net8.0\3.5.pdb
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.5\obj\Debug\net8.0\3.5.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.5\obj\Debug\net8.0\ref\3.5.dll
