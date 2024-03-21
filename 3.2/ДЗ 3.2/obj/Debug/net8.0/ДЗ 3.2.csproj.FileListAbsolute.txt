@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.2\ДЗ 3.2\bin\Debug\net8.0\ДЗ 3.2.exe
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.2\ДЗ 3.2\bin\Debug\net8.0\ДЗ 3.2.deps.json
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.2\ДЗ 3.2\bin\Debug\net8.0\ДЗ 3.2.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.2\ДЗ 3.2\bin\Debug\net8.0\ДЗ 3.2.dll
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.2\ДЗ 3.2\bin\Debug\net8.0\ДЗ 3.2.pdb
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.2\ДЗ 3.2\obj\Debug\net8.0\ДЗ 3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.2\ДЗ 3.2\obj\Debug\net8.0\ДЗ 3.2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.2\ДЗ 3.2\obj\Debug\net8.0\ДЗ 3.2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.2\ДЗ 3.2\obj\Debug\net8.0\ДЗ 3.2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.2\ДЗ 3.2\obj\Debug\net8.0\ДЗ 3.2.dll
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.2\ДЗ 3.2\obj\Debug\net8.0\refint\ДЗ 3.2.dll
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.2\ДЗ 3.2\obj\Debug\net8.0\ДЗ 3.2.pdb
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.2\ДЗ 3.2\obj\Debug\net8.0\ДЗ 3.2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\2024\Домашки\3\3.2\ДЗ 3.2\obj\Debug\net8.0\ref\ДЗ 3.2.dll
